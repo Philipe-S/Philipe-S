@@ -1,4 +1,4 @@
 # 👋 Hi, I’m Philipe
 - 👀 I’m interested in many things :D
-- 🌱 I’m currently learning some Python & C#
-- 📫 How to reach me philipe@schrade.it
+- 🏢 I’m working as a System & Network Administrator (still learning it though)
+- 🌱 I’m currently learning some Python & C# (in my spare time)
